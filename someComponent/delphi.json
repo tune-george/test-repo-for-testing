@@ -1,0 +1,10 @@
+{
+  "name": "someComponent",
+  "dependencies": [],
+  "ignore": [
+    "gulpfile.js",
+    "webpack.config.js",
+    "bundle.js",
+    "entry.jsx"
+  ]
+}

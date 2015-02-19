@@ -1,0 +1,6 @@
+{
+  "name": "component5",
+  "dependencies": [
+    "component6"
+  ]
+}
